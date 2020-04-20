@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Adarsh Agrahari's 
 
-You can use the [editor on GitHub](https://github.com/sir-ad/adarsh.co/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can follow me on [instagram](https://instagram.com/stan.ad) to see my life.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
